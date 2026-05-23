@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Self-Supervised Learning for CNN-Transformer Hybrids under Parameter and Label Constraints"
-permalink: /4yp/e20/dynacorrupt-ssl-tiny-hybrid/
+permalink: /4yp/e20/ssl-tiny-hybrid/
 description: "A lightweight, multi-pretext self-supervised learning pipeline designed for resource-constrained hybrid CNN-Transformer architectures."
 has_children: false
 parent: E20 Undergraduate Research Projects
